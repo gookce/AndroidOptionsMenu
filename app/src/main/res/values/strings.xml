@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobileQuiz</string>
+    <string-array name="names">
+        <item>Gökçe Demir</item>,
+        <item>Ayşe Demir</item>
+        <item>Gökyüzü Demir</item>
+        <item>Ayça Demir</item>
+    </string-array>
+</resources>
